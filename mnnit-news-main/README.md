@@ -1,4 +1,4 @@
-**EVENTFEED WEBSITE
+**EVENTFEED WEBSITE         
 Tools: HTML, CSS, Bootstrap, Django**
 
 • A website that provides users an efficient way to post and access upcoming events.    
